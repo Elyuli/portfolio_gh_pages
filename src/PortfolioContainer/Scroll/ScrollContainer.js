@@ -5,7 +5,7 @@ import "./ScrollContainer.css";
 const ScrollContainer = () => {
 	return (
 		<div className="scroll-container">
-			<NavHashLink to="#Home">
+			<NavHashLink to="portfolio_react_gh_pages#Home">
 				<button className="btn-scroll">
 					{" "}
 					<i className="fa fa-arrow-up"></i>

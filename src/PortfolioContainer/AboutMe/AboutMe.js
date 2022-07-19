@@ -61,7 +61,7 @@ const AboutMe = () => {
 						</div>
 						<div className="about-me-options">
 							{" "}
-							<NavHashLink to="#ContactMe">
+							<NavHashLink to="portfolio_react_gh_pages#ContactMe">
 								<button className="butn primary-btn">
 									{""} Hire Me{""}
 								</button>

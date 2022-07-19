@@ -73,7 +73,7 @@ const Header = () => {
 						return (
 							<NavHashLink
 								key={i}
-								to={`#${link.name}`}
+								to={`portfolio_react_gh_pages#${link.name}`}
 								className={
 									link.checked
 										? "header-option header-option-separator selected-header-option"
