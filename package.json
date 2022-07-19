@@ -2,7 +2,7 @@
 	"name": "client",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://Elyuli.github.io",
+	"homepage": "https://Elyuli.github.io/portfolio_react_gh_pages",
 	"dependencies": {
 		"@emotion/react": "^11.9.3",
 		"@emotion/styled": "^11.9.3",
