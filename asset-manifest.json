@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_gh_pages/static/css/main.9bd0b613.css",
-    "main.js": "/portfolio_gh_pages/static/js/main.8ee232d3.js",
+    "main.js": "/portfolio_gh_pages/static/js/main.13d48868.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js",
     "static/media/about-me.png": "/portfolio_gh_pages/static/media/about-me.ed31dfd6f21ae4561476.png",
     "static/media/yoelkys.jpg": "/portfolio_gh_pages/static/media/yoelkys.241ce150aaec1a5b2184.jpg",
@@ -28,11 +28,11 @@
     "static/media/loader.svg": "/portfolio_gh_pages/static/media/loader.271fc4ca5fb0c0e73a30b791bf078945.svg",
     "static/media/facebook.svg": "/portfolio_gh_pages/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
     "main.9bd0b613.css.map": "/portfolio_gh_pages/static/css/main.9bd0b613.css.map",
-    "main.8ee232d3.js.map": "/portfolio_gh_pages/static/js/main.8ee232d3.js.map",
+    "main.13d48868.js.map": "/portfolio_gh_pages/static/js/main.13d48868.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bd0b613.css",
-    "static/js/main.8ee232d3.js"
+    "static/js/main.13d48868.js"
   ]
 }
