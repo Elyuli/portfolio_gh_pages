@@ -14,7 +14,6 @@ const Header = () => {
 	const [isHamburger, setIsHamburger] = useState(false);
 	const [navLink, setNavLink] = useState(initNavLink);
 	const [openMobile, setOpenMobile] = useState(false);
-	//const [stylesHamburger, setStylesHamburger] = useState(["header-options"]);
 
 	let stylesHamburger = ["header-options"];
 
