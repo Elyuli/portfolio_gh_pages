@@ -1,4 +1,4 @@
-/* .home-container,
+.home-container,
 .about-me-container,
 .resume-container,
 .main-container {
@@ -7,4 +7,17 @@
 
 .testimonials {
 	height: 89vh;
-} */
+}
+
+@media screen and (max-width: 450px) {
+	.home-container,
+	.about-me-container,
+	.resume-container,
+	.main-container {
+		height: auto;
+	}
+
+	.testimonials {
+		height: auto;
+	}
+}
