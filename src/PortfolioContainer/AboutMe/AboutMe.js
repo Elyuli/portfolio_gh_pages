@@ -67,8 +67,8 @@ const AboutMe = () => {
 								</button>
 							</NavHashLink>
 							<a
-								href="Julio Cesar-curriculum-vitae.pdf"
-								download="Julio Cesar-curriculum-vitae.pdf"
+								href="Julio Cesar Fernandez  CV Oficial.pdf"
+								download="Julio Cesar Fernandez  CV Oficial.pdf"
 							>
 								<button className="butn highlighted-btn">Get Resume</button>
 							</a>
