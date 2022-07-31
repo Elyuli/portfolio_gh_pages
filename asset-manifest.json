@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_gh_pages/static/css/main.e3ca1f5e.css",
-    "main.js": "/portfolio_gh_pages/static/js/main.e3d7c088.js",
+    "main.js": "/portfolio_gh_pages/static/js/main.d6b45701.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js",
     "static/media/about-me.png": "/portfolio_gh_pages/static/media/about-me.ed31dfd6f21ae4561476.png",
     "static/media/yoelkys.jpg": "/portfolio_gh_pages/static/media/yoelkys.241ce150aaec1a5b2184.jpg",
@@ -15,10 +15,10 @@
     "static/media/Poppins-SemiBold.ttf": "/portfolio_gh_pages/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
     "static/media/Poppins-Bold.ttf": "/portfolio_gh_pages/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/portfolio_gh_pages/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/mike.png": "/portfolio_gh_pages/static/media/mike.8af8bcf1a1892426bb8d.png",
     "static/media/mailz.jpeg": "/portfolio_gh_pages/static/media/mailz.d13d5e32cbc73884b526.jpeg",
     "static/media/man.png": "/portfolio_gh_pages/static/media/man.bd25aa3831d20f3de330.png",
     "static/media/bg.jpg": "/portfolio_gh_pages/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/Fito.jpg": "/portfolio_gh_pages/static/media/Fito.398895d337554165a528.jpg",
     "static/media/programming-skills.svg": "/portfolio_gh_pages/static/media/programming-skills.d19983a9bee884277ffa4156796bcc0c.svg",
     "index.html": "/portfolio_gh_pages/index.html",
     "static/media/projects.svg": "/portfolio_gh_pages/static/media/projects.2b352a52b0588dab62f56a7d1c1e436d.svg",
@@ -28,11 +28,11 @@
     "static/media/loader.svg": "/portfolio_gh_pages/static/media/loader.271fc4ca5fb0c0e73a30b791bf078945.svg",
     "static/media/facebook.svg": "/portfolio_gh_pages/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
     "main.e3ca1f5e.css.map": "/portfolio_gh_pages/static/css/main.e3ca1f5e.css.map",
-    "main.e3d7c088.js.map": "/portfolio_gh_pages/static/js/main.e3d7c088.js.map",
+    "main.d6b45701.js.map": "/portfolio_gh_pages/static/js/main.d6b45701.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ca1f5e.css",
-    "static/js/main.e3d7c088.js"
+    "static/js/main.d6b45701.js"
   ]
 }
