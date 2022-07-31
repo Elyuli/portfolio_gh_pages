@@ -19,7 +19,7 @@ function App() {
 			<ScrollContainer /> */}
 
 			<Routes>
-				<Route path="/portfolio_gh_pages" element={<Home />} />
+				<Route path="/" element={<Home />} />
 
 				{/* <Route path="/section" element={<Header />} />
 				<Route path="/section" element={<AboutMe />} />
