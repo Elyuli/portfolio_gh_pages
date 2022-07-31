@@ -15,7 +15,6 @@ const Resume = () => {
 		{ title: "Interests", src: `${Interests}`, checked: false },
 	]);
 	const [position, setPosition] = useState(0);
-	const carouselRef = useRef();
 	const bulletsRef = useRef();
 	const styles = { opacity: 5, transform: "translateY(1px)" };
 
@@ -244,7 +243,7 @@ const Resume = () => {
 										<div className="heading-date">2021-2022</div>
 									</div>
 									<div className="resume-sub-heading">
-										<span>Technologies Used: React JS, Bootsrap</span>
+										<span>Technologies Used: React JS, Bootstrap</span>
 									</div>
 									<div className="resume-heading-description">
 										<span>
@@ -261,8 +260,8 @@ const Resume = () => {
 									</div>
 									<div className="resume-sub-heading">
 										<span>
-											Technologies Used: React , PostgresSql, Express Js, Node,
-											API REST Geoserver.
+											Technologies Used: React , PostgreSql, Express Js, Node,
+											API REST Geoserver. API Open Access Hub
 										</span>
 									</div>
 									<div className="resume-heading-description">
