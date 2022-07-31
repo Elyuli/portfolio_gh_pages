@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import AboutMe from "./PortfolioContainer/AboutMe/AboutMe";
 import ContactMe from "./PortfolioContainer/ContactMe/ContactMe";
-import Header from "./PortfolioContainer/Home/Header/Header";
 import Home from "./PortfolioContainer/Home/Home";
 import Resume from "./PortfolioContainer/Resume/Resume";
 import ScrollContainer from "./PortfolioContainer/Scroll/ScrollContainer";
@@ -19,7 +18,7 @@ function App() {
 			<ScrollContainer /> */}
 
 			<Routes>
-				<Route path="/" element={<Home />} />
+				<Route path="/portfolio_gh_pages" element={<Home />} />
 
 				{/* <Route path="/section" element={<Header />} />
 				<Route path="/section" element={<AboutMe />} />
