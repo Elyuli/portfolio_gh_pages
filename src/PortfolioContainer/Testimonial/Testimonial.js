@@ -38,7 +38,6 @@ const Testimonial = () => {
 							{" "}
 							{/* style={{ marginTop: "-60px" }} */}
 							<div className="container">
-								{/* <h2 className="section-title">Mis clientes dicen</h2> */}
 								<article
 									className="carousel"
 									//style="--carousel-bg-color: var(--white-alpha-color);"
@@ -55,6 +54,7 @@ const Testimonial = () => {
 									<ul className="slides">
 										<li className="slide">
 											<img className="avatar" src={Yoelkys} alt="Cliente 1" />
+											{/* <div className="avatar1"></div> */}
 											<blockquote>
 												"When you handed in my work my head was spinning, you
 												were very nice and implemented all the features I
@@ -106,7 +106,7 @@ const Testimonial = () => {
 					</aside>
 				</article>
 				<div className="footer-image">
-					<img src={Shape} alt="Pic no responding" />
+					<img src={Shape} alt="Pic not responding" />
 				</div>
 			</section>
 		</>
