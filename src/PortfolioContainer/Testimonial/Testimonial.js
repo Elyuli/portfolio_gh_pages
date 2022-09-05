@@ -1,10 +1,6 @@
 import React from "react";
 import "./Testimonial.css";
 import Shape from "../../assets/shape-bg.png";
-import Mike from "../../assets/Testimonial/mike.png";
-import Yoelkys from "../../assets/Testimonial/yoelkys.jpg";
-import Man from "../../assets/Testimonial/man.png";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 const Testimonial = () => {
 	const styles = {
@@ -30,18 +26,11 @@ const Testimonial = () => {
 					</div>
 				</div>
 				<article className="hero-image">
-					<aside
-						className="hero-image-opacity"
-						//style="--hero-opacity-color: var(--white-alpha-color);"
-					>
+					<aside className="hero-image-opacity">
 						<div className="hero-image-content">
 							{" "}
-							{/* style={{ marginTop: "-60px" }} */}
 							<div className="container">
-								<article
-									className="carousel"
-									//style="--carousel-bg-color: var(--white-alpha-color);"
-								>
+								<article className="carousel">
 									<input
 										type="radio"
 										name="slides"
@@ -53,45 +42,62 @@ const Testimonial = () => {
 									<input type="radio" name="slides" id="slide-4" />
 									<ul className="slides">
 										<li className="slide">
-											<img className="avatar" src={Yoelkys} alt="Cliente 1" />
-											{/* <div className="avatar1"></div> */}
-											<blockquote>
-												"When you handed in my work my head was spinning, you
-												were very nice and implemented all the features I
-												requested. Thank you."
-											</blockquote>
-											<h3 className="text-first-color">NOMBRE DEL CLIENTE</h3>
-											<h6>Puesto del Cliente</h6>
-										</li>
-										<li className="slide">
-											<img className="avatar" src={Man} alt="Cliente 2" />
-											<blockquote>
-												"This guy is incredibly awesome, I hired him and when He
-												delivered, I honestly fell in love with the project. He
-												is indeed a great guy,"
-											</blockquote>
-											<h3 className="text-first-color">NOMBRE DEL CLIENTE</h3>
-											<h6>Puesto del Cliente</h6>
-										</li>
-										<li className="slide">
-											<img className="avatar" src={Mike} alt="Cliente 1" />
+											<div className="testimonial-profile-fito"></div>
 											<blockquote>
 												"I patronized Julio and when He delivered, I honestly
 												fell in love with the project He is a very honest guy
 												and he delivers ontime."
 											</blockquote>
-											<h3 className="text-first-color">NOMBRE DEL CLIENTE</h3>
-											<h6>Puesto del Cliente</h6>
+											<h3 className="text-first-color">
+												Rodolfo Luis Reyes Baños
+											</h3>
+											<h6>
+												Director del Dpto de Redes de la Universidad de Ciego de
+												Ávila{" "}
+											</h6>
 										</li>
 										<li className="slide">
-											<img className="avatar" src={Yoelkys} alt="Cliente 2" />
+											<div className="testimonial-profile-yoelkys"></div>
+											<blockquote>
+												"When you handed in my work my head was spinning, you
+												were very nice and implemented all the features I
+												requested. Thank you."
+											</blockquote>
+											<h3 className="text-first-color">
+												Yoelkis Hernandez Victor
+											</h3>
+											<h6>Vicerrector Universidad de Ciego de Ávila</h6>
+										</li>
+										<li className="slide">
+											<div className="testimonial-profile-fito"></div>
+											<blockquote>
+												"This guy is incredibly awesome, I hired him and when He
+												delivered, I honestly fell in love with the project. He
+												is indeed a great guy."
+											</blockquote>
+											<h3 className="text-first-color">
+												Rodolfo Luis Reyes Baños
+											</h3>
+											<h6>
+												Director del Dpto de Redes de la Universidad de Ciego de
+												Ávila{" "}
+											</h6>
+										</li>
+
+										<li className="slide">
+											<div className="testimonial-profile-yordanis"></div>
 											<blockquote>
 												"It was nice hiring this guy for my e-commerce
 												project.He delivered even more than i can imagine. I
 												recommend him for you."
 											</blockquote>
-											<h3 className="text-first-color">NOMBRE DEL CLIENTE</h3>
-											<h6>Puesto del Cliente</h6>
+											<h3 className="text-first-color">
+												Yordanis Arencibia López
+											</h3>
+											<h6>
+												Administrador de Redes en la Universidad de Ciego de
+												Ávila
+											</h6>
 										</li>
 									</ul>
 									<aside className="slides-nav">
