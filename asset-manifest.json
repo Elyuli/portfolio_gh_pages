@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio_gh_pages/static/css/main.886bffb2.css",
+    "main.css": "/portfolio_gh_pages/static/css/main.ee60ebf1.css",
     "main.js": "/portfolio_gh_pages/static/js/main.444034f1.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js",
     "static/media/about-me.png": "/portfolio_gh_pages/static/media/about-me.ed31dfd6f21ae4561476.png",
@@ -18,6 +18,7 @@
     "static/media/Poppins-ExtraBold.ttf": "/portfolio_gh_pages/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/mailz.jpeg": "/portfolio_gh_pages/static/media/mailz.d13d5e32cbc73884b526.jpeg",
     "static/media/Fito.png": "/portfolio_gh_pages/static/media/Fito.662d66d57b7328d3f160.png",
+    "static/media/Daniel.png": "/portfolio_gh_pages/static/media/Daniel.2612b4d7d28e85c58089.png",
     "static/media/bg.jpg": "/portfolio_gh_pages/static/media/bg.d580cd375921d13ae60d.jpg",
     "static/media/programming-skills.svg": "/portfolio_gh_pages/static/media/programming-skills.d19983a9bee884277ffa4156796bcc0c.svg",
     "index.html": "/portfolio_gh_pages/index.html",
@@ -27,12 +28,12 @@
     "static/media/work-history.svg": "/portfolio_gh_pages/static/media/work-history.a566475dedb99dea4bb8b9115798b2a3.svg",
     "static/media/loader.svg": "/portfolio_gh_pages/static/media/loader.271fc4ca5fb0c0e73a30b791bf078945.svg",
     "static/media/facebook.svg": "/portfolio_gh_pages/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.886bffb2.css.map": "/portfolio_gh_pages/static/css/main.886bffb2.css.map",
+    "main.ee60ebf1.css.map": "/portfolio_gh_pages/static/css/main.ee60ebf1.css.map",
     "main.444034f1.js.map": "/portfolio_gh_pages/static/js/main.444034f1.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfolio_gh_pages/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.886bffb2.css",
+    "static/css/main.ee60ebf1.css",
     "static/js/main.444034f1.js"
   ]
 }
